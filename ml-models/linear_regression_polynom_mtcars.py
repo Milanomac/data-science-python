@@ -8,7 +8,7 @@ matplotlib.style.use('ggplot')
 
 # Load mtcars data set
 
-mtcars = pd.read_csv('mtcars.xls')
+mtcars = pd.read_csv('datasets/mtcars.xls')
 
 # mtcars.plot(kind="scatter",
 #             x = "wt",
