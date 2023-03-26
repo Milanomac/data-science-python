@@ -76,3 +76,15 @@ An important part of business is planning for the future and ensuring that the b
 Like many business problems, the data we'll explore is contained in several different datasets. In order to understand the world's oldest businesses, we will first need to use joining techniques to merge our data. From there, we can use manipulation tools such as grouping and filtering to answer questions about these historic businesses.
 
 - Data manipulation
+
+## 07_Exploring_Cryptocurrency_Market
+
+### Project Description
+
+To better understand the growth and impact of Bitcoin and other cryptocurrencies you will, in this project, explore the market capitalization of different cryptocurrencies. Data was extracted on the 6th of December of 2017 using the coinmarketcap API (NOTE: The public API went private in 2020 and is no longer available). Bitcoin at that time had a market capitalization above $200 billion.
+
+Warning: The cryptocurrency market is exceptionally volatile, and any money you put in might disappear into thin air. Never invest money you can't afford to lose.
+
+- Data manipulation
+- Data visualization
+- Importing & Cleaning Data
