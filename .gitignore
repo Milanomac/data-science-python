@@ -1,2 +1,3 @@
-other-data-science-projects/00_sentiment_analysis/database/database.sqlite
-other-data-science-projects/05_face_swapping_insightface/inswapper_128.onnx
+data-science-and-ml-projects/28_sentiment_analysis_NLTK_VADER/database/database.sqlite
+data-science-and-ml-projects/29_face_swapping_insightface/inswapper_128.onnx
+data-science-and-ml-projects/27_ML_sentiment_analysis_reviews/Mid_DS_NLP/Mid_DS_NLP.csv
